@@ -2,6 +2,7 @@ Making To-do List
 - Create HTML File
   ^ Angular
   ^ React
- - Create Backend
+- Create Backend
   ^ Laravel
   ^ Firebase
+- Create dashboard
