@@ -2,8 +2,10 @@ Making To-do List
 - Create HTML File
   ^ Angular
   ^ React
-  ^ Bootstrap
+  ^ Vue
+  ^ HTML
 - Create Backend
   ^ Laravel
   ^ Firebase
 - Create dashboard
+- Python
