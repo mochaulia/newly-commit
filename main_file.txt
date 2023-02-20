@@ -2,3 +2,6 @@ This is the file of the commit procedure
 - Make a new repo
 - Create file main_file.txt
 - Commit changes
+- Adding a new line in main_file.txt
+- Deleting a line in main_file.txt
+- Commiting changes
