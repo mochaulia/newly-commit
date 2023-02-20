@@ -1,0 +1,4 @@
+This is the file of the commit procedure
+- Make a new repo
+- Create file main_file.txt
+- Commit changes
